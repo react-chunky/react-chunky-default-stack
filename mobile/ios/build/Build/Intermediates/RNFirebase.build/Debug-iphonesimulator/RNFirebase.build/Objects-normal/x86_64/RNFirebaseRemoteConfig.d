@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/dancali/@/carmel/dev/carmel/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseRemoteConfig.m \
+  /Users/dancali/@/carmel/dev/carmel/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseRemoteConfig.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  ../../../ios/Pods/Firebase/Core/Sources/module.modulemap \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dancali/@/carmel/dev/carmel/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  ../../../ios/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Modules/module.modulemap \
+  /Users/dancali/@/carmel/dev/carmel/node_modules/react-native-firebase/ios/../../../ios/Pods/Firebase/Core/Sources/module.modulemap \
+  ../../../ios/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Headers/FIRRemoteConfig.h \
+  ../../../ios/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Headers/FirebaseRemoteConfig.h

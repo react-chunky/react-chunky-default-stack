@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/@/carmel/dev/carmel/node_modules/react-native-firebase/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a04b991928f1fec69463f4a2c7e2a333125543a">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_39881d24fbfe6567c110a916acc8058192abab31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/.android/build-cache/24d09698b91444579f50760d37abc0b7dbd34cf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_77405b4cf2563ba3989c430c77508636d5d501a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/@/carmel/dev/carmel/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_b5d6258eb9dd9edaa9fd338e12ff55fe5f1b4f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/@/carmel/dev/carmel/node_modules/react-native-geocoder/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f52090c69e53ec818bc2768bdf43bfbcf832bfb4">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_8ba69bff80e4b58180f14467ff9a27e5d7720b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/@/carmel/dev/carmel/node_modules/react-native-sound/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7928ca2aee98dbdd5120ff66393d67402b5b719c">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_8b6f39b3db54be329a611515a97841516f30d4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/.android/build-cache/24d09698b91444579f50760d37abc0b7dbd34cf2/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_9434cfb83a7a48c7a742fd8b863cdcd115b7cf50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/@/carmel/dev/carmel/node_modules/react-native-blur/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cfd2beda62a95885570abc3e2e488059101373e">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_0629313a91d625650e0b8c8cee191767762917b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dancali/@/carmel/dev/carmel/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e30c0d599b6cb1acf3f986d2c29a1a6ecf83c407">
+        <dex dex="/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/pre-dexed/release/classes_5df7f738f3cfda043e70c125a3e22663ae0bf430.jar" />
+    </item>
+
+</items>

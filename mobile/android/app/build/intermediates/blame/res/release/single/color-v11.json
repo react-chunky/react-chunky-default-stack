@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

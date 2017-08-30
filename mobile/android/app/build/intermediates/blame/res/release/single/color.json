@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/dancali/.android/build-cache/324a34e13aedc54e327ba4cef4eec0d63b6f567a/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/dancali/.android/build-cache/324a34e13aedc54e327ba4cef4eec0d63b6f567a/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/dancali/.android/build-cache/324a34e13aedc54e327ba4cef4eec0d63b6f567a/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/dancali/@/carmel/dev/carmel/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/dancali/.android/build-cache/e868753659501f29d53c139774e055b6bb58b6d8/output/res/color/abc_primary_text_material_light.xml"
+    }
+]
