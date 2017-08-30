@@ -20,14 +20,12 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
+ios/build/
 
 # Gradle
-/build/
-/RNTester/android/app/build/
-/RNTester/android/app/gradle/
-/RNTester/android/app/gradlew
-/RNTester/android/app/gradlew.bat
-/ReactAndroid/build/
+android/build/
+android/app/build/
+android/app/gradle/
 
 # Buck
 .buckd
