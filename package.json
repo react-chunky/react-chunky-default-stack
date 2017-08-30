@@ -1,6 +1,6 @@
 {
   "name": "react-chunky-full-stack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Default Chunky Stack",
   "scripts": {
     "test": "react-native-savor test",
