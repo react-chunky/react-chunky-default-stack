@@ -1,6 +1,6 @@
 {
-  "name": "react-chunky-full-stack",
-  "version": "0.1.1",
+  "name": "react-chunky-default-stack",
+  "version": "0.2.0",
   "description": "The Default Chunky Stack",
   "scripts": {
     "test": "react-native-savor test",
@@ -10,15 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-chunky/react-chunky-full-stack.git"
+    "url": "git+https://github.com/react-chunky/react-chunky-default-stack.git"
   },
   "author": "I. Dan Calinescu <idancalinescu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-chunky/react-chunky-full-stack/issues"
+    "url": "https://github.com/react-chunky/react-chunky-default-stack/issues"
   },
   "homepage": "https://github.com/react-chunky/react-chunky-full-stack",
   "dependencies": {
+    "react-chunky": "0.x",
+    "react-native-chunky": "0.x",
+    "react-dom-chunky": "0.x",
+    "react-chunky-auth-chunk": "0.x",
+    "react-chunky-list-chunk": "0.x"
   },
   "devDependencies": {
     "react-native-savor": "0.x",
